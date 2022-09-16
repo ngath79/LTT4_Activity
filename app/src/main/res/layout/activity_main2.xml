@@ -25,7 +25,7 @@
             android:layout_width="271dp"
             android:layout_height="match_parent"
             android:paddingTop="10dp"
-            android:text="Sign up"
+            android:text="MSV: 2050531200235"
             android:textAlignment="center"
             android:textColor="#F3EFEF"
             android:textSize="25dp"
