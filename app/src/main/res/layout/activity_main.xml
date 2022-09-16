@@ -24,7 +24,7 @@
             android:layout_width="285dp"
             android:layout_height="match_parent"
             android:paddingTop="10dp"
-            android:text="Sign up"
+            android:text="Mai Thị Nga"
             android:textAlignment="center"
             android:textColor="#F3EFEF"
             android:textSize="20sp"
